@@ -44,9 +44,10 @@ To begin with I imported the GoogleCardboard package however DayDream was depric
 * Main Scene: includes the engine where the user can visualize the different components along with the animation at a variable speed based on user prefernece. Morover engine sound was consistent with the chosen speed.
 * The second scene included the single piston where the user is able to select one stroke to visualize its motion along with reading and hearing a synchronized explanatory text and audion
 
-All these functionalities were implemented through scripts. The user can interact with the scene through reticle pointer and teleportation areas.
+All these functionalities were implemented through scripts. The user can interact with the scene through reticle pointer and teleportation areas. Morover the user has the option to walk when he/she tilts his/her head. This was a script that detects the camera angle and based on certain threshold the player starts to move according to the user head tilting direction.
 
 # Demo
+![WhatsApp Image 2023-05-28 at 14 10 28](https://github.com/adnanO999/EngineRoom/assets/88556508/e708a6dd-38e9-4477-871f-7247fa7ec85b)
 ![image](https://github.com/adnanO999/EngineRoom/assets/88556508/91dfafef-fd4a-44c1-bb56-aef82c126b04)
 ![image](https://github.com/adnanO999/EngineRoom/assets/88556508/14a0d489-31be-4673-a78f-27876ce9e8a1)
 ![image](https://github.com/adnanO999/EngineRoom/assets/88556508/b05d9d71-d7c6-4847-a2a7-53581b5062cf)
